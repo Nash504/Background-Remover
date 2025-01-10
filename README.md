@@ -1,6 +1,6 @@
 # Background Remover App
 
-A simple web application that removes the background from images using the [rembg](https://github.com/danielgatis/rembg) library and [Streamlit](https://streamlit.io/).
+A simple streamlit web application that removes the background from images using the [rembg](https://github.com/danielgatis/rembg) library and [Streamlit](https://streamlit.io/).
 
 ## Features
 - Upload `.jpg`, `.jpeg`, or `.png` images.
